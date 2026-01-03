@@ -1,0 +1,269 @@
+{
+  "item": {
+    "SWORD": {
+      "transforms": {
+        "right": {
+          "scale": 0.79999954,
+          "offX": -1.4901161e-8,
+          "offY": 0.8599994,
+          "offZ": 0.0,
+          "rotX": 0.0,
+          "rotY": -3.0,
+          "rotZ": 82.0,
+          "pivotX": -0.37000003,
+          "pivotY": 0.67,
+          "pivotZ": -0.050000012
+        },
+        "left": {
+          "scale": 0.79999954,
+          "offX": 1.4901161e-8,
+          "offY": 0.8899994,
+          "offZ": 0.0,
+          "rotX": 0.0,
+          "rotY": 182.0,
+          "rotZ": -82.0,
+          "pivotX": 0.37000003,
+          "pivotY": 0.65000004,
+          "pivotZ": -1.4901161e-8
+        }
+      }
+    }
+  },
+  "itemSpecific": {
+    "kimetsunoyaiba:pistol": {
+      "kind": "INGREDIENT",
+      "transforms": {
+        "right": {
+          "scale": 0.3,
+          "offX": -1.4901161e-8,
+          "offY": 0.099999994,
+          "offZ": -0.23000005,
+          "rotX": 0.0,
+          "rotY": -105.0,
+          "rotZ": 88.0,
+          "pivotX": -0.46999997,
+          "pivotY": 0.71999997,
+          "pivotZ": -0.020000022
+        }
+      }
+    },
+    "kimetsunoyaiba:nichirinsword_genya": {
+      "kind": "SWORD",
+      "transforms": {
+        "right": {
+          "scale": 0.79999954,
+          "offX": 0.04,
+          "offY": 0.38999993,
+          "offZ": 0.0,
+          "rotX": 0.0,
+          "rotY": 183.0,
+          "rotZ": 81.0,
+          "pivotX": -0.38,
+          "pivotY": 0.7,
+          "pivotZ": -0.06000001
+        },
+        "left": {
+          "scale": 0.79999954,
+          "offX": -0.04,
+          "offY": 0.38999993,
+          "offZ": 0.0,
+          "rotX": 0.0,
+          "rotY": 1.0,
+          "rotZ": -81.0,
+          "pivotX": 0.38,
+          "pivotY": 0.7,
+          "pivotZ": -1.4901161e-8
+        }
+      }
+    },
+    "kimetsunoyaiba:nichirinsword_shinazugawa": {
+      "kind": "SWORD",
+      "transforms": {
+        "right": {
+          "scale": 0.79999954,
+          "offX": -1.4901161e-8,
+          "offY": 0.51999974,
+          "offZ": 0.0,
+          "rotX": 0.0,
+          "rotY": -3.0,
+          "rotZ": 82.0,
+          "pivotX": -0.37000003,
+          "pivotY": 0.67,
+          "pivotZ": -0.050000012
+        },
+        "left": {
+          "scale": 0.79999954,
+          "offX": 1.4901161e-8,
+          "offY": 0.52999973,
+          "offZ": 0.0,
+          "rotX": 0.0,
+          "rotY": 180.0,
+          "rotZ": -82.0,
+          "pivotX": 0.37000003,
+          "pivotY": 0.67,
+          "pivotZ": 0.009999985
+        }
+      }
+    },
+    "kimetsunoyaiba:nichirinsword_rengoku": {
+      "kind": "SWORD",
+      "transforms": {
+        "right": {
+          "scale": 0.79999954,
+          "offX": -1.4901161e-8,
+          "offY": 0.50999975,
+          "offZ": 0.0,
+          "rotX": 0.0,
+          "rotY": -3.0,
+          "rotZ": 82.0,
+          "pivotX": -0.37000003,
+          "pivotY": 0.67,
+          "pivotZ": -0.050000012
+        },
+        "left": {
+          "scale": 0.79999954,
+          "offX": 1.4901161e-8,
+          "offY": 0.51999974,
+          "offZ": 0.0,
+          "rotX": 0.0,
+          "rotY": 180.0,
+          "rotZ": -85.0,
+          "pivotX": 0.37000003,
+          "pivotY": 0.67,
+          "pivotZ": 0.009999985
+        }
+      }
+    },
+    "kimetsunoyaiba:nichirinsword_kocho": {
+      "kind": "PICKAXE",
+      "transforms": {
+        "right": {
+          "scale": 0.79999954,
+          "offX": -0.020000074,
+          "offY": 0.7899994,
+          "offZ": -1.8626451e-9,
+          "rotX": 0.0,
+          "rotY": -360.0,
+          "rotZ": 86.0,
+          "pivotX": -0.38,
+          "pivotY": 0.67,
+          "pivotZ": -0.030000014
+        },
+        "left": {
+          "scale": 0.79999954,
+          "offX": 0.030000074,
+          "offY": 0.7999994,
+          "offZ": -1.8626451e-9,
+          "rotX": 0.0,
+          "rotY": 540.0,
+          "rotZ": -85.0,
+          "pivotX": 0.38,
+          "pivotY": 0.67,
+          "pivotZ": -1.4901161e-8
+        }
+      }
+    },
+    "kimetsunoyaiba:nichirinsword_himejima_2": {
+      "kind": "SWORD",
+      "transforms": {
+        "right": {
+          "scale": 0.79999954,
+          "offX": -1.4901161e-8,
+          "offY": 0.47999978,
+          "offZ": -0.01,
+          "rotX": 1.0,
+          "rotY": -91.0,
+          "rotZ": 85.0,
+          "pivotX": -0.37000003,
+          "pivotY": 0.68,
+          "pivotZ": 0.029999984
+        },
+        "left": {
+          "scale": 0.79999954,
+          "offX": 1.4901161e-8,
+          "offY": 0.47999978,
+          "offZ": -0.01,
+          "rotX": 1.0,
+          "rotY": 91.0,
+          "rotZ": -85.0,
+          "pivotX": 0.37000003,
+          "pivotY": 0.68,
+          "pivotZ": 0.029999984
+        }
+      }
+    },
+    "kimetsunoyaiba:nichirinsword_himejima_1": {
+      "kind": "SWORD",
+      "armKind": "SHOVEL",
+      "transforms": {
+        "right": {
+          "scale": 0.7499996,
+          "offX": -0.40999988,
+          "offY": -0.14000005,
+          "offZ": -0.21000001,
+          "rotX": 0.0,
+          "rotY": -3.0,
+          "rotZ": 82.0,
+          "pivotX": -0.2900001,
+          "pivotY": 0.67,
+          "pivotZ": -0.030000014
+        },
+        "left": {
+          "scale": 0.7499996,
+          "offX": 0.40999988,
+          "offY": -0.14000005,
+          "offZ": -0.21000001,
+          "rotX": 0.0,
+          "rotY": 3.0,
+          "rotZ": -82.0,
+          "pivotX": 0.2900001,
+          "pivotY": 0.67,
+          "pivotZ": -0.030000014
+        }
+      },
+      "armTransforms": {
+        "right": {
+          "scale": 1.0,
+          "offX": -1.05,
+          "offY": 0.23000002,
+          "offZ": 0.29999998,
+          "rotX": 3.0,
+          "rotY": -4.0,
+          "rotZ": -90.0,
+          "pivotX": 0.0,
+          "pivotY": 0.0,
+          "pivotZ": 0.0
+        }
+      }
+    },
+    "kimetsunoyaiba:nichirinsword_yoriichi": {
+      "kind": "SWORD",
+      "transforms": {
+        "right": {
+          "scale": 0.79999954,
+          "offX": -1.4901161e-8,
+          "offY": 0.7699995,
+          "offZ": 0.0,
+          "rotX": 0.0,
+          "rotY": -3.0,
+          "rotZ": 82.0,
+          "pivotX": -0.37000003,
+          "pivotY": 0.67,
+          "pivotZ": -0.050000012
+        },
+        "left": {
+          "scale": 0.79999954,
+          "offX": 1.4901161e-8,
+          "offY": 0.7999995,
+          "offZ": 0.0,
+          "rotX": 0.0,
+          "rotY": 183.0,
+          "rotZ": -83.0,
+          "pivotX": 0.37000003,
+          "pivotY": 0.67,
+          "pivotZ": 0.009999985
+        }
+      }
+    }
+  }
+}
